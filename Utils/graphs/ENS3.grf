@@ -1,0 +1,30 @@
+#Unigraph
+SIZE 1276 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+10
+"<E>" 70 200 3 2 3 6 
+"" 1068 164 0 
+"<aller.V>+<partir.V>+<déplacer.V>+<voyager.V>+<rouler.V>+<vivre.V>+<venir.V>+<arriver.V>" 255 302 2 3 6 
+"<PCDN1>+<EPCDN>" 362 36 1 6 
+"<FIRST>" 743 291 4 4 7 9 5 
+"<E>/</lieu>" 1017 283 1 1 
+"(à+sur+vers+au+en+dans+de+à l')" 605 153 2 6 8 
+"<<->>" 756 380 1 4 
+"<E>/<lieu>" 682 298 1 4 
+"(à+sur+vers+au+en+dans+de+à l')" 779 118 1 4 
