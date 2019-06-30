@@ -1,5 +1,12 @@
 # NLP_ReactiveProgramming
 
+REST API used to find named entities in an upload text.
+
+It use a SPARQL request to get a list of named entities, then use Unitex with a graph in order to list the entities present in the text.
+
+The API allows the user to upload a file, list all files previously uploaded and find the named entities in the text.
+
+
 ## Requirements
 
 Scala 2.12
