@@ -1,4 +1,4 @@
-# NLP_ReactiveProgramming
+# Scala REST API NLP
 
 REST API used to find locations in an upload text.
 
